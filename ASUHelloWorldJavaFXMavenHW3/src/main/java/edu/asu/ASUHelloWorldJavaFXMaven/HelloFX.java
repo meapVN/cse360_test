@@ -12,7 +12,7 @@ import javafx.stage.Stage;
 public class HelloFX extends Application {
 
     public void start(Stage primaryStage) {
-    	System.out.println("ASU Hello World!");
+    	System.out.println("In class GitHub activity");
     	System.out.println("It started!");
         primaryStage.setTitle("Khang Nguyen Hello World Fall 2024");
         Button btn = new Button();
